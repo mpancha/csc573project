@@ -1,0 +1,11 @@
+DSCP1=40
+DSCP2=48
+DSCP3=56
+NPKT1=$1
+NPKT2=$2
+NPKT3=$3
+while [ 1 ]
+do
+   ./etraffic.o 192.168.10.20 30001 192.168.1.20 40001 $NPKT1 10 40&
+   sleep 1
+done

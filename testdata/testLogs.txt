@@ -1,0 +1,105 @@
+
+3MB * 3Hosts + 50 Emergency Pkt per second * 3Hosts ; Emergency OFF
+
+Emergency Red statistics
+color:0, total = 19454, min = 17154, pdontdrop=0, pdrop = 0, fdrop = 0 qlen=1042 qavg=0 qmin=19454|etotal = 2300, emin = 2300, emark = 0,epdontdrop=0,epdrop=0,efdrop = 0
+color:2, total = 19452, min = 17152, pdontdrop=0, pdrop = 0, fdrop = 0 qlen=1042 qavg=0 qmin=19452|etotal = 2300, emin = 2300, emark = 0,epdontdrop=0,epdrop=0,efdrop = 0
+color:3, total = 19452, min = 17152, pdontdrop=0, pdrop = 0, fdrop = 0 qlen=1042 qavg=0 qmin=19452|etotal = 2300, emin = 2300, emark = 0,epdontdrop=0,epdrop=0,efdrop = 0
+
+-------------------------------------------------------------------------------------------
+
+3MB * 3Hosts + 50 Emergency Pkt per second * 3Hosts ; Emergency ON
+
+Emergency Red statistics
+color:0, total = 19526, min = 17226, pdontdrop=0, pdrop = 0, fdrop = 0 qlen=1042 qavg=0 qmin=19526|etotal = 2300, emin = 2300, emark = 0,epdontdrop=0,epdrop=0,efdrop = 0
+color:2, total = 19525, min = 17225, pdontdrop=0, pdrop = 0, fdrop = 0 qlen=1042 qavg=0 qmin=19525|etotal = 2300, emin = 2300, emark = 0,epdontdrop=0,epdrop=0,efdrop = 0
+color:3, total = 19525, min = 17225, pdontdrop=0, pdrop = 0, fdrop = 0 qlen=1042 qavg=0 qmin=19525|etotal = 2300, emin = 2300, emark = 0,epdontdrop=0,epdrop=0,efdrop = 0
+
+
+-------------------------------------------------------------------------------------------
+
+3.2MB * 3Hosts + 50 Emergency Pkt per second * 3Hosts ; Emergency OFF
+
+Emergency Red statistics
+color:0, total = 21369, min = 17209, pdontdrop=1762, pdrop = 60, fdrop = 0 qlen=4168 qavg=2933 qmin=18800|etotal = 2350, emin = 1727, emark = 12,epdontdrop=611,epdrop=12,efdrop = 0
+color:2, total = 21369, min = 10102, pdontdrop=8508, pdrop = 770, fdrop = 0 qlen=3126 qavg=5087 qmin=8795|etotal = 2350, emin = 0, emark = 361,epdontdrop=1989,epdrop=361,efdrop = 0
+color:3, total = 21368, min = 798, pdontdrop=16661, pdrop = 1762, fdrop = 0 qlen=3126 qavg=7153 qmin=714|etotal = 2350, emin = 0, emark = 203,epdontdrop=2147,epdrop=203,efdrop = 0
+
+-------------------------------------------------------------------------------------------
+
+3.2MB * 3Hosts + 50 Emergency Pkt per second * 3Hosts ; Emergency ON
+
+Emergency Red statistics
+color:0, total = 20870, min = 17228, pdontdrop=1321, pdrop = 21, fdrop = 0 qlen=4168 qavg=2936 qmin=19194|etotal = 2300, emin = 2102, emark = 4,epdontdrop=194,epdrop=0,efdrop = 0
+color:2, total = 20868, min = 9733, pdontdrop=8412, pdrop = 423, fdrop = 0 qlen=3126 qavg=5135 qmin=8628|etotal = 2300, emin = 0, emark = 296,epdontdrop=2004,epdrop=0,efdrop = 0
+color:3, total = 20869, min = 1139, pdontdrop=15841, pdrop = 1589, fdrop = 0 qlen=3126 qavg=7288 qmin=1001|etotal = 2300, emin = 0, emark = 228,epdontdrop=2072,epdrop=0,efdrop = 0
+
+-------------------------------------------------------------------------------------------
+
+5MB * 3Hosts + 50 Emergency Pkt per second * 3Hosts ; Emergency OFF
+
+Emergency Red statistics
+color:0, total = 31934, min = 0, pdontdrop=23503, pdrop = 6543, fdrop = 0 qlen=12504 qavg=13881 qmin=0|etotal = 2400, emin = 0, emark = 512,epdontdrop=1888,epdrop=512,efdrop = 0
+color:2, total = 31882, min = 0, pdontdrop=17508, pdrop = 13012, fdrop = 0 qlen=6252 qavg=21733 qmin=0|etotal = 2350, emin = 0, emark = 988,epdontdrop=1362,epdrop=988,efdrop = 0
+color:3, total = 31932, min = 0, pdontdrop=13925, pdrop = 16992, fdrop = 0 qlen=9247 qavg=30985 qmin=0|etotal = 2400, emin = 0, emark = 1385,epdontdrop=1015,epdrop=1385,efdrop = 0
+
+-------------------------------------------------------------------------------------------
+
+5MB * 3Hosts + 50 Emergency Pkt per second * 3Hosts ; Emergency ON
+
+Emergency Red statistics
+color:0, total = 30910, min = 0, pdontdrop=22642, pdrop = 5968, fdrop = 0 qlen=13546 qavg=14123 qmin=0|etotal = 2300, emin = 0, emark = 499,epdontdrop=1801,epdrop=0,efdrop = 0
+color:2, total = 30908, min = 0, pdontdrop=16908, pdrop = 11700, fdrop = 0 qlen=8336 qavg=23629 qmin=0|etotal = 2300, emin = 0, emark = 1140,epdontdrop=1160,epdrop=0,efdrop = 0
+color:3, total = 30908, min = 0, pdontdrop=13362, pdrop = 15200, fdrop = 46 qlen=6252 qavg=30599 qmin=0|etotal = 2300, emin = 0, emark = 1358,epdontdrop=942,epdrop=0,efdrop = 0
+
+-------------------------------------------------------------------------------------------
+
+10MB * 3Hosts + 50 Emergency Pkt per second * 3Hosts ; Emergency OFF
+
+Emergency Red statistics
+color:0, total = 59741, min = 0, pdontdrop=31380, pdrop = 27125, fdrop = 0 qlen=20840 qavg=24752 qmin=0|etotal = 2300, emin = 0, emark = 1064,epdontdrop=1236,epdrop=1064,efdrop = 0
+color:2, total = 59739, min = 0, pdontdrop=17704, pdrop = 35007, fdrop = 6395 qlen=13546 qavg=37332 qmin=0|etotal = 2300, emin = 0, emark = 1294,epdontdrop=633,epdrop=1294,efdrop = 373
+color:3, total = 59738, min = 0, pdontdrop=4579, pdrop = 8271, fdrop = 46740 qlen=8336 qavg=40763 qmin=0|etotal = 2300, emin = 0, emark = 294,epdontdrop=148,epdrop=294,efdrop = 1858
+
+-------------------------------------------------------------------------------------------
+
+10MB * 3Hosts + 50 Emergency Pkt per second * 3Hosts ; Emergency ON
+
+Emergency Red statistics
+color:0, total = 60634, min = 0, pdontdrop=31697, pdrop = 26637, fdrop = 0 qlen=29176 qavg=24677 qmin=0|etotal = 2300, emin = 0, emark = 1045,epdontdrop=1255,epdrop=0,efdrop = 0
+color:2, total = 60631, min = 0, pdontdrop=17503, pdrop = 32693, fdrop = 8787 qlen=20840 qavg=41092 qmin=0|etotal = 2300, emin = 0, emark = 1102,epdontdrop=546,epdrop=0,efdrop = 652
+color:3, total = 60681, min = 0, pdontdrop=5034, pdrop = 8740, fdrop = 46406 qlen=8336 qavg=44185 qmin=0|etotal = 2350, emin = 0, emark = 323,epdontdrop=178,epdrop=0,efdrop = 1849
+
+
+-------------------------------------------------------------------------------------------
+
+20MB * 3Hosts + 50 Emergency Pkt per second * 3Hosts ; Emergency OFF
+
+Emergency Red statistics
+color:0, total = 117411, min = 0, pdontdrop=43484, pdrop = 71615, fdrop = 1472 qlen=39596 qavg=37355 qmin=0|etotal = 2300, emin = 0, emark = 1302,epdontdrop=840,epdrop=1302,efdrop = 158
+color:2, total = 117408, min = 0, pdontdrop=8532, pdrop = 14209, fdrop = 94507 qlen=10420 qavg=42195 qmin=0|etotal = 2300, emin = 0, emark = 289,epdontdrop=160,epdrop=289,efdrop = 1851
+color:3, total = 117406, min = 0, pdontdrop=1867, pdrop = 2290, fdrop = 113238 qlen=3126 qavg=42829 qmin=0|etotal = 2300, emin = 0, emark = 23,epdontdrop=11,epdrop=23,efdrop = 2266
+
+-------------------------------------------------------------------------------------------
+
+20MB * 3Hosts + 50 Emergency Pkt per second * 3Hosts ; Emergency ON
+
+Emergency Red statistics
+color:0, total = 118825, min = 0, pdontdrop=43688, pdrop = 70629, fdrop = 2415 qlen=31260 qavg=33133 qmin=0|etotal = 2300, emin = 0, emark = 1316,epdontdrop=777,epdrop=0,efdrop = 207
+color:2, total = 118822, min = 0, pdontdrop=8655, pdrop = 14683, fdrop = 95145 qlen=10420 qavg=41285 qmin=0|etotal = 2300, emin = 0, emark = 226,epdontdrop=113,epdrop=0,efdrop = 1961
+color:3, total = 118821, min = 0, pdontdrop=2043, pdrop = 2557, fdrop = 114184 qlen=3126 qavg=43090 qmin=0|etotal = 2300, emin = 0, emark = 23,epdontdrop=14,epdrop=0,efdrop = 2263
+
+-------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------

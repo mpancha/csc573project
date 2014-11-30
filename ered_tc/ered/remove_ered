@@ -1,0 +1,4 @@
+../iproute2-3.16.0/tc/tc qdisc del dev eth0 root
+../iproute2-3.16.0/tc/tc qdisc del dev eth1 ingress
+../iproute2-3.16.0/tc/tc qdisc del dev eth2 ingress
+../iproute2-3.16.0/tc/tc qdisc del dev eth3 ingress
